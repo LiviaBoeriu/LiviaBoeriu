@@ -12,8 +12,7 @@
 
 🌱 I’m currently learning React.js <br/><br/>
 
-
-I am currently looking for the right place to start my professional IT journey, preferably someplace around Aalborg, Denmark or remote. If you want to get a more in-depth view of my past projects you can check out my [ portfolio ](https://liviaboeriu.com). <br/><br/>
+Currently I am looking for the right place to start my professional IT journey; preferably someplace around Aalborg or Aarhus (Denmark) or remote. If you want to get a more in-depth view of my past projects you can check out my [ portfolio ](https://liviaboeriu.com). <br/><br/>
 
 
 ⚡ Fun fact: I love playing video games and when I'm not at the computer I am probably attempting to convince my friends to play some boardgames. Nothing beats bonding over who cheated at Monopoly! 
